@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alphabet-cipher/alphabet-cipher.iml" filepath="$PROJECT_DIR$/alphabet-cipher/alphabet-cipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/card-game-war/card-game-war.iml" filepath="$PROJECT_DIR$/card-game-war/card-game-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doublets/doublets.iml" filepath="$PROJECT_DIR$/doublets/doublets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox-goose-bag-of-corn/fox-goose-bag-of-corn.iml" filepath="$PROJECT_DIR$/fox-goose-bag-of-corn/fox-goose-bag-of-corn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic-square/magic-square.iml" filepath="$PROJECT_DIR$/magic-square/magic-square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiny-maze/tiny-maze.iml" filepath="$PROJECT_DIR$/tiny-maze/tiny-maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wonderland-number/wonderland-number.iml" filepath="$PROJECT_DIR$/wonderland-number/wonderland-number.iml" />
+    </modules>
+  </component>
+</project>
